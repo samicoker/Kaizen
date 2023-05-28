@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\bin\Debug\CreateCodeProject.exe.config
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\bin\Debug\CreateCodeProject.exe
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\bin\Debug\CreateCodeProject.pdb
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\obj\Debug\CreateCodeProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\obj\Debug\CreateCodeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\obj\Debug\CreateCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\obj\Debug\CreateCodeProject.exe
+C:\Users\Lenovo\source\repos\KaizenCase\CreateCodeProject\obj\Debug\CreateCodeProject.pdb
